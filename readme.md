@@ -2,6 +2,10 @@
 
 A secure RESTful API for managing a secret agent gadget inventory, built with Node.js, Express, Sequelize, and PostgreSQL.
 
+**Deployed API:** [Phoenix Gadget API](https://phoenix-gadget-api-zqab.onrender.com)
+
+**API Documentation:** [View on Postman](https://www.postman.com/navigation-engineer-92001223/workspace/my-web-dev/collection/39574165-194303ec-1fd1-44b2-af78-8ac10dfd7976?action=share&creator=39574165)
+
 ---
 
 ## Features
